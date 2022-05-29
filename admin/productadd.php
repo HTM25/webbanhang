@@ -23,9 +23,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['submit'])){
                 ?>
                 <form action="productadd.php" method="POST" enctype="multipart/form-data">
                     <label for="">Tên sản phẩm<span style="color: red;">*</span></label> <br>
-                    <input required type="text" name="sanpham_tieude"> <br>
+                    <input type="text" name="sanpham_tieude"> <br>
                     <label for="">Mã sản phẩm<span style="color: red;">*</span></label> <br>
-                    <input required type="text" name="sanpham_ma"> <br>
+                    <input type="text" name="sanpham_ma"> <br>
                     <!-- <label for="">Ngày bài viết<span style="color: red;">*</span></label> <br>
                     <input type="text" name="baiviet_ngay"> <br>
                     <label for="">Tác giả bài viết<span style="color: red;">*</span></label> <br>
