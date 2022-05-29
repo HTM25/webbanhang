@@ -1,12 +1,12 @@
     <!-- -------------------------Footer -->
     <section class="footer">
         <div class="footer-container">
-            <p>Tải ứng dụng IVY moda</p>
+  
             <div class="app-google">
                 <a href=""><img src="image/appstore.jpg" alt=""></a>
                 <a href=""> <img src="image/googleplay.jpg" alt=""></a>
             </div>
-            <p>Nhận bản tin IVY moda</p>
+            
             <div class="input-email">
                 <input type="text" placeholder="Nhập email của bạn">
                 <i class="fas fa-arrow-left"></i>
@@ -19,12 +19,10 @@
                 <li><a href=""><i class="fab fa-facebook-f"></i></a><a href=""><i class="fab fa-youtube"></i></a></li>
             </div>
             <div class="footer-text">
-                Công ty Cổ phần Dự Kim với số đăng ký kinh doanh: 0105777650 <br>
-Địa chỉ đăng ký: Tổ dân phố Tháp, P.Đại Mỗ, Q.Nam Từ Liêm, TP.Hà Nội, Việt Nam - 0243 205 2222 <br>
-Đặt hàng online : 0246 662 3434 .
+                Nhà hàng Nam Phương - Món ngon mỗi ngày
             </div>
             <div class="footer-bottom">
-                ©Ivymoda All rights reserved
+                ©Nam Phương
             </div>
         </div>
     </section>
