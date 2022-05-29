@@ -211,32 +211,7 @@ $(document).ready(function(){
 
 
         
-        //     $(this).click(function(){
-        //     var x = $(this).parent().find('#question-answer-content').val()
-        //     var y = $(this).parent().find('#baiviet_id').val()
-        //     var z = $(this).parent().find('#user_ten').val()
-        //     var s = $(this).parent().find('#question-idA').val()
-        //     var m = $(this).parent().parent().parent().find('.comment-content-answer')
-        //     // $(this).parent().parent().parent().find('.comment-content-answer').css('border','1px solid red')
-           
-        //     // alert(s)
-        //     if (x!="" )
-        //    {
-            
-        //     $.get ("ajax/question_ajax.php", {content:x,baiviet_id:y,user_ten:z,question_id:s}, function(data) {
-        //        m.html(data);
-        //     })
-        //     location.reload();
-        //    }
-        //    else {
-        //        alert ("Bạn chưa nhập nội dung")
-        //    }
-           
-
-        //   });
-       
-
-
+      
 
 
     
