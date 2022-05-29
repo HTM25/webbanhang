@@ -52,7 +52,7 @@ if (isset($_GET['sanpham_id'])|| $_GET['sanpham_id']!=NULL){
                         <input class="sanpham_gia" type="hidden" value="<?php echo $result['sanpham_gia'] ?>">
                     </div>
                     <div class="product-content-right-product-color">
-                        <p><span style="font-weight: bold;">Màu sắc</span>:<?php echo $result['color_ten'] ?> <span style="color: red;">*</span></p>
+                        <p><span style="font-weight: bold;">CƠ SỞ</span>:<?php echo $result['color_ten'] ?> <span style="color: red;">*</span></p>
                        <div class="product-content-right-product-color-IMG">
                         <img class="color_anh" src="admin/uploads/<?php echo $result['color_anh'] ?>" alt="">
                        </div>                      
