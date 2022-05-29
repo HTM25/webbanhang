@@ -64,8 +64,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['submit'])){
                     <p>S</p>    <input type="checkbox" name="sanpham-size[]" value="S"> 
                     <p>M</p>    <input type="checkbox" name="sanpham-size[]" value="M"> 
                     <p>L</p>    <input type="checkbox" name="sanpham-size[]" value="L">
-                    <p>XL</p>   <input type="checkbox" name="sanpham-size[]" value="XL">  
-                    <p>XXL</p>  <input type="checkbox" name="sanpham-size[]" value="XXL">  
                     </div>
                     <label for="">Giá sản phẩm<span style="color: red;">*</span></label> <br>
                     <input required type="text" name="sanpham_gia"> <br>  
