@@ -25,7 +25,7 @@ $index = new index;
         integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <link rel="stylesheet" href="css/mainstyle.css">
-    <title>Nhà hàng Nam Phương</title>
+    <title>Nhà Hàng Nam Phương</title>
     <link href="image/logo.png" rel="icon">
     <link href="image/logo.png" rel="apple-touch-icon">
 
@@ -98,8 +98,6 @@ $index = new index;
                                     </div>
                                 </div>
                                 <?php
-                                    
-                                        
                                             }}
                                 ?>
 
