@@ -1,7 +1,7 @@
 <?php
 include "header.php";
 include "leftside.php";
-include "class/cartegory_class.php";
+//include "class/cartegory_class.php";
 // define('__ROOT__', dirname(dirname(__FILE__))); 
 // require_once(__ROOT__.'../admin/class/cartegory_class.php');
 ?>
